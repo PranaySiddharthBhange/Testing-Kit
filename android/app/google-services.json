@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "998053960418",
+    "firebase_url": "https://agrotech-d6e76-default-rtdb.firebaseio.com",
+    "project_id": "agrotech-d6e76",
+    "storage_bucket": "agrotech-d6e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998053960418:android:0773dd89068aa2d7bddcbb",
+        "android_client_info": {
+          "package_name": "com.example.dropdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998053960418-0andvb22j9aofv5ri4ggsgmpog6j967a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2AwIV_M6pWb7lSiGn7TyYXTagD2vfCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998053960418-0andvb22j9aofv5ri4ggsgmpog6j967a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998053960418-dlo3b05uk3e616ma13g3utteb9vqvav2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartIrrigationSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998053960418:android:2820db760338c72bbddcbb",
+        "android_client_info": {
+          "package_name": "com.example.smart_irrigation_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998053960418-0andvb22j9aofv5ri4ggsgmpog6j967a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2AwIV_M6pWb7lSiGn7TyYXTagD2vfCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998053960418-0andvb22j9aofv5ri4ggsgmpog6j967a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998053960418-dlo3b05uk3e616ma13g3utteb9vqvav2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartIrrigationSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
